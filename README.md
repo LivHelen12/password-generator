@@ -1,7 +1,7 @@
 # Password Generator
 
-![Badge](https://img.shields.io/github/issues/LivHelen12/stopwatcher)
-![Badge](https://img.shields.io/github/license/LivHelen12/stopwatcher)
+![Badge](https://img.shields.io/github/issues/LivHelen12/password-generator)
+![Badge](https://img.shields.io/github/license/LivHelen12/password-generator)
 
 ## 🚀 Generate random password using HTML, CSS, Vanilla Javascript and Toastr.
 
